@@ -1,4 +1,4 @@
-## Oiii eu sou a Vanessa Ugioni, estudante na área de desenvolvimento!
+## Oiii eu sou a Vanessa Ugioni, estudante da área de desenvolvimento!
 
 
 <div style="display: inline_block"><br>
