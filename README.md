@@ -1,4 +1,4 @@
-## Oiii eu sou a Vanessa, estudante da área de desenvolvimento!
+## Oii, eu sou a Vanessa!!
 
 
 <div style="display: inline_block"><br>
