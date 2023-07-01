@@ -1,5 +1,8 @@
-## Oii, eu sou a Vanessa!!
+## Oii, eu sou a Vanessa!!👋
 
+Bem-vindo(a) ao meu diário de desenvolvimento...💻✨
+
+Essas são algumas das linguagens de programação com as quais trabalho e estudo.🔍
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Va-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
