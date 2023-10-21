@@ -2,8 +2,6 @@
 
 #### Bem-vindo(a) ao meu diário de desenvolvimento...💻✨
 
-#### Essas são algumas das linguagens com as quais trabalho e estudo.🔍
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Va-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Va-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
