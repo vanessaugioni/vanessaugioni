@@ -1,7 +1,7 @@
 ### Oii, eu sou a Va!👋
 
 
-Bem-vindo(a) ao meu diário de desenvolvimento. Aqui você irá encontrar todos os projetos que desenvolvi desde o início da minha tragetória na programação. 
+Bem-vindo(a) ao meu diário de desenvolvimento. Aqui você irá encontrar todos os projetos que desenvolvi desde o início da minha trajetória na programação. 
 
 <div display="block" class="container"> 
   
