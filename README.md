@@ -33,6 +33,6 @@ Bem-vindo(a) ao meu diário de desenvolvimento. Aqui você irá encontrar todos 
 ### Vamos conversar?
  
 [![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Ugioni-6B2AAD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessaugioni-146b92188/)](https://www.linkedin.com/in/vanessaugioni-146b92188/) 
-[![Gmail Badge](https://img.shields.io/badge/vanessaugionicontato@gmail.com-6B2AAD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iuricold99@gmail.com)](mailto:vanessaugionicontato@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/vanessaugionicontato@gmail.com-6B2AAD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessaugionicontato@gmail.com)](mailto:vanessaugionicontato@gmail.com)
 
 Made with 💜 by Va
