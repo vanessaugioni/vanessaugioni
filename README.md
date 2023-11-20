@@ -8,7 +8,7 @@ Bem-vindo(a) ao meu diário de desenvolvimento. Aqui você irá encontrar todos 
 #### Segue os tipos de projetos disponíveis no meu perfil: 
 ✨ Projetos pessoais; 
     <br>
-📍 Projetos de cursos; 
+📍  Projetos de cursos; 
     <br>
 📝 Projetos de estudos. 
     <br>
