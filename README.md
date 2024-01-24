@@ -31,14 +31,15 @@ Bem-vindo(a) ao meu diário de desenvolvimento. Aqui você irá encontrar alguns
 </div>
 
 <br>
+<br>
 
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=vanessaugioni&theme=modern-lilac2)](https://git.io/streak-stats)
-  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaugioni&show_icons=true&theme=radical&title_color=C770F0&text_color)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaugioni&layout=compact&langs_count=6&theme=tokyonight)
+
   ##
 
 ### Vamos conversar?
  
-[![Linkedin Badge](https://img.shields.io/badge/-Vanessa%20Ugioni-6B2AAD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vanessaugioni-146b92188/)](https://www.linkedin.com/in/vanessaugioni-146b92188/) 
 [![Gmail Badge](https://img.shields.io/badge/vanessaugionicontato@gmail.com-6B2AAD?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vanessaugionicontato@gmail.com)](mailto:vanessaugionicontato@gmail.com)
 
 Made with 💜 by Va
