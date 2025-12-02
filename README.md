@@ -33,7 +33,6 @@ Bem-vindo(a) ao meu diário de desenvolvimento. Aqui você irá encontrar alguns
 <br>
 <br>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vanessaugioni&show_icons=true&theme=radical&title_color=C770F0&bg_color=0A0E12&icon_color=C770F0&text_color=FFFFFF&border_radius=4&hide_border=false)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vanessaugioni&layout=compact&langs_count=6&theme=tokyonight&bg_color=0A0E12&icon_color=C770F0&text_color=FFFFFF&border_radius=4&hide_border=false&title_color=C770F0)
 
   ##
